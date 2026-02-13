@@ -1,0 +1,22 @@
+project_id = "auqckphxeorxmtvyukwd"
+
+ [functions.auth]
+ verify_jwt = false
+ 
+ [functions.place-order]
+ verify_jwt = false
+ 
+ [functions.resolve-market]
+ verify_jwt = false
+ 
+ [functions.sell-position]
+ verify_jwt = false
+ 
+ [functions.cancel-market]
+ verify_jwt = false
+
+ [functions.check-market-expiry]
+ verify_jwt = false
+
+ [functions.admin-actions]
+ verify_jwt = false
