@@ -28,7 +28,7 @@ export function Header() {
             Leagues
           </Button>
           <Link to="/" className="font-semibold text-lg hover:text-primary transition-colors">
-            {currentLeague?.name ?? 'Prediction Market'}
+            {currentLeague?.name ?? 'Commons'}
           </Link>
           {currentLeague && (
             <button

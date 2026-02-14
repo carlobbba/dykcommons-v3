@@ -208,7 +208,7 @@ export function LeaguesPage() {
     <div className="min-h-screen bg-background">
       <header className="border-b bg-card">
         <div className="container mx-auto px-4 h-14 flex items-center justify-between">
-          <span className="font-semibold text-lg">Prediction Market</span>
+          <span className="font-semibold text-lg">Commons</span>
           <div className="flex items-center gap-3">
             {isAdmin && (
               <Link to="/admin">

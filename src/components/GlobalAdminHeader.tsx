@@ -23,7 +23,7 @@ export function GlobalAdminHeader() {
             Back to Leagues
           </Button>
           <Link to="/admin" className="font-semibold text-lg hover:text-primary transition-colors">
-            Prediction Market - Admin
+            Commons - Admin
           </Link>
         </div>
 
